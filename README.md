@@ -1,1 +1,59 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"mount_file_id":"1tMHVW1UE4feL4J1FHoRW98UbKMhHR2Hb","authorship_tag":"ABX9TyN+392MuoPN68ks5QwNyIkk"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"markdown","source":["# Hyundai Sales Dashboard\n","\n","## 📊 Project Overview\n","This project involves the analysis of sales data from Hyundai, focusing on identifying key trends, patterns, and actionable insights. The dataset was sourced from Kaggle (https://www.kaggle.com/datasets/waelalimohamed/hyundai-2020-2023-sales) and processed to create an interactive sales dashboard.\n","\n","The main objectives of this analysis are:\n","- To understand sales performance every years.\n","- To identify seasonal patterns or trends in sales data.\n","- To provide actionable recommendations for optimizing sales strategies.\n","\n","## 📘 Files\n","- `Hyundai Sales Dataset.xlsx`: Contains the dataset with 3 sheets consisting of Cars Prices, Cars Sales, and Official Agent.\n","- `Hyundai Sales Cleaned.xlsx`: Contains the cleaned dataset.\n","- `Hyundai Sales Dashboard.xlsx`: Contains the Excel dashboard.\n","- `README.md`: Project documentation.\n","Dataset originally sourced from [Kaggle: Hyundai Sales 2020-2023](https://www.kaggle.com/datasets/waelalimohamed/hyundai-2020-2023-sales).\n","\n","## ⚙️ Tools\n","The tools used are all from Microsoft Excel, including:\n","- For data cleaning (using Power Query)\n","- Data analysis (using Pivot Table), and\n","- Creating an interactive dashboards.\n","\n","## 🎯 Key Insights\n","1. **Country Sales Performance**:\n","   - Top-performing region: **[Saudi Arabia]**.\n","\n","2. **Product Trends**:\n","   - Most model type sold: **[Sedan i30]**.\n","   - Most color sold: **[Red]**.\n","   - Most gender to the product sold: **[Male]**.\n","\n","3. **Seasonality**:\n","   - Peak sales: **[May 2023]**.\n","   - Lowest sales: **[March 2022]**.\n","  \n","4. **Agent Contribution**\n","   - Agent who contributes the most to sales is **[Global Engine]**\n","\n","5. **Actionable Recommendations**:\n","   - Focus marketing efforts on **[Sedan i30/Red Color/Male]** during **[March]**.\n","   - Optimize inventory for **[Sedan i30]** in **[Saudi Arabia]**.\n","   - Optimize role of **[Global Engine]** agent.\n","\n","## 🚨 Getting Started for The Dashboard\n","1. Download the `Hyundai Sales Dashboard.xlsx` file.\n","2. Open the file in Microsoft Excel (2013 or later).\n","3. Explore the dashboard by interacting with filters and slicers.\n","\n","## 📲 Contact\n","Feel free to reach out if you have any questions or feedback:\n","\n","- **Email**: [My Email](muhamadsalimalwan10@gmail.com)\n","- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhamad-salim-alwan/)\n","- **GitHub**: [My GitHub Profile](https://github.com/salim23-png)\n","\n","---\n","\n","Thank you for checking out this project! I hope you find it insightful."],"metadata":{"id":"9ggs--E7YDcV"}}]}
+# Hyundai Sales Dashboard
+
+## 📊 Project Overview
+This project involves the analysis of sales data from Hyundai, focusing on identifying key trends, patterns, and actionable insights. The dataset was sourced from Kaggle (https://www.kaggle.com/datasets/waelalimohamed/hyundai-2020-2023-sales) and processed to create an interactive sales dashboard.
+
+The main objectives of this analysis are:
+- To understand sales performance every years.
+- To identify seasonal patterns or trends in sales data.
+- To provide actionable recommendations for optimizing sales strategies.
+
+## 📘 Files
+- `Hyundai Sales Dataset.xlsx`: Contains the dataset with 3 sheets consisting of Cars Prices, Cars Sales, and Official Agent. 
+- `Hyundai Sales Cleaned.xlsx`: Contains the cleaned dataset.
+- `Hyundai Sales Dashboard.xlsx`: Contains the Excel dashboard.
+- `README.md`: Project documentation.
+Dataset originally sourced from [Kaggle: Hyundai Sales 2020-2023](https://www.kaggle.com/datasets/waelalimohamed/hyundai-2020-2023-sales). 
+
+## ⚙️ Tools 
+The tools used are all from Microsoft Excel, including:
+- For data cleaning (using Power Query)
+- Data analysis (using Pivot Table), and 
+- Creating an interactive dashboards.
+
+## 🎯 Key Insights
+1. **Country Sales Performance**:
+   - Top-performing region: **[Saudi Arabia]**.
+
+2. **Product Trends**:
+   - Most model type sold: **[Sedan i30]**.
+   - Most color sold: **[Red]**.
+   - Most gender to the product sold: **[Male]**.
+
+3. **Seasonality**:
+   - Peak sales: **[May 2023]**.
+   - Lowest sales: **[March 2022]**.
+  
+4. **Agent Contribution**
+   - Agent who contributes the most to sales is **[Global Engine]** 
+
+5. **Actionable Recommendations**:
+   - Focus marketing efforts on **[Sedan i30/Red Color/Male]** during **[March]**.
+   - Optimize inventory for **[Sedan i30]** in **[Saudi Arabia]**.
+   - Optimize role of **[Global Engine]** agent.
+
+## 🚨 Getting Started for The Dashboard
+1. Download the `Hyundai Sales Dashboard.xlsx` file.
+2. Open the file in Microsoft Excel (2013 or later).
+3. Explore the dashboard by interacting with filters and slicers.
+
+## 📲 Contact 
+Feel free to reach out if you have any questions or feedback:
+
+- **Email**: [My Email](muhamadsalimalwan10@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhamad-salim-alwan/)
+- **GitHub**: [My GitHub Profile](https://github.com/salim23-png)
+
+---
+
+Thank you for checking out this project! I hope you find it insightful.
