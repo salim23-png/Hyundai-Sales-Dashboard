@@ -53,6 +53,7 @@ Feel free to reach out if you have any questions or feedback:
 - **Email**: [My Email](muhamadsalimalwan10@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhamad-salim-alwan/)
 - **GitHub**: [My GitHub Profile](https://github.com/salim23-png)
+- **Instagram**: [My Instagram](https://www.instagram.com/salim.cloud)
 
 ---
 
